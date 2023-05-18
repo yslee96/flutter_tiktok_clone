@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "e63eb77be9f24c3c5f7142321329eca42dab681148f83aa9e429d94a783c6395"
+build_start_time: [1684368324, 632595000]
+build_end_time: [1684368324, 785081000]
+inputs:
+  "/Users/iyunsu/tiktok_clone/flutter_tiktok_clone/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1684368285, 409777457]
+  "/Users/iyunsu/tiktok_clone/flutter_tiktok_clone/macos/Runner/AppDelegate.swift": !private [1681949566, 0]
+  "/Users/iyunsu/tiktok_clone/flutter_tiktok_clone/macos/Runner/MainFlutterWindow.swift": !private [1681949566, 0]
